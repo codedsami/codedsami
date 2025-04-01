@@ -10,7 +10,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codedsami&show_icons=true&count_private=true&theme=dark" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedsami&layout=compact&theme=dark" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedsami&theme=dark" height="180px"/>
 </div>  
 
 ---
